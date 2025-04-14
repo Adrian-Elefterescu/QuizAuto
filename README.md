@@ -1,28 +1,29 @@
-📌 Quiz Auto - Aplicație de Testare a Cunoștințelor Rutiere
-
-🚗 Quiz Auto este o aplicație educațională care ajută utilizatorii să își testeze și îmbunătățească cunoștințele despre regulile de circulație, simulând un examen auto real.
+📌 Quiz Auto – Road Knowledge Testing App
 
 
-🛠 Funcționalități Principale
-
-✅ Autentificare & Înregistrare – Utilizatorii trebuie să își creeze un cont pentru a accesa quiz-ul.
-
-✅ Quiz Interactiv – 26 de întrebări alese aleatoriu dintr-o bază de date.
-
-✅ Limită de Timp – 30 de minute pentru a finaliza testul.
-
-✅ Sistem de Scor – Quiz-ul se oprește automat la 5 răspunsuri greșite.
-
-✅ Statistici Detaliate – Vizualizarea testelor trecute și picate.
+🚗 Quiz Auto is an educational application designed to help users test and improve their knowledge of traffic rules by simulating a real driving exam.
 
 
-💻 Tehnologii Utilizate
+🛠 Key Features
 
-🔹 Java – Limbaj de programare principal
+✅ Login & Registration – Users must create an account to access the quiz.
 
-🔹 Swing – Biblioteca pentru interfața grafică
+✅ Interactive Quiz – 26 randomly selected questions from a large database.
 
-🔹 MySQL – Baza de date pentru stocarea utilizatorilor, întrebărilor și rezultatelor
+✅ Time Limit – Users have 30 minutes to complete the test.
 
-🔹 JDBC – Conectarea Java la baza de date
+✅ Scoring System – The quiz automatically ends after 5 incorrect answers.
+
+✅ Detailed Statistics – Users can view passed and failed test results.
+
+
+💻 Technologies Used
+
+🔹 Java – Primary programming language
+
+🔹 Swing – GUI library for the user interface
+
+🔹 MySQL – Database for storing users, questions, and results
+
+🔹 JDBC – Java Database Connectivity for linking the app to the database
 
