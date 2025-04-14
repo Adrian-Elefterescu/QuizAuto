@@ -1,7 +1,9 @@
 📌 Quiz Auto – Road Knowledge Testing App
 
 
+
 🚗 Quiz Auto is an educational application designed to help users test and improve their knowledge of traffic rules by simulating a real driving exam.
+
 
 
 🛠 Key Features
@@ -15,6 +17,7 @@
 ✅ Scoring System – The quiz automatically ends after 5 incorrect answers.
 
 ✅ Detailed Statistics – Users can view passed and failed test results.
+
 
 
 💻 Technologies Used
